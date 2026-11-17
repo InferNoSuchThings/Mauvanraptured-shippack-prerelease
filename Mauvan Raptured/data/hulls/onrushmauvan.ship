@@ -1,0 +1,309 @@
+{
+  "hullName": "onrush",
+  "hullId": "onrushmauvan",
+  "hullSize": "CAPITAL_SHIP",
+  "spriteName": "graphics/ships/mauvanraptured_onrush.png",
+  "style": "LOW_TECH",
+  "height": 384,
+  "width": 288,
+  "center": [150, 192],
+  "collisionRadius": 245.5,
+  "shieldCenter": [3.5, -0],
+  "shieldRadius": 180,
+  "viewOffset": 0,
+  "builtInMods": [
+    "hbi"
+  ],
+  "builtInWeapons": {
+    "WS0009": "tpc",
+    "WS0010": "tpc"
+  },
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "LARGE",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 219,
+      "angle": -54.5,
+      "locations": [34, -40]
+    },
+    {
+      "id": "WS0002",
+      "size": "LARGE",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 219,
+      "angle": 54.5,
+      "locations": [34, 40]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 131,
+      "angle": -79.5,
+      "locations": [71, -31]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 131,
+      "angle": 79.5,
+      "locations": [71, 31]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 123,
+      "angle": -79,
+      "locations": [91, -27]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 123,
+      "angle": 79,
+      "locations": [91, 27]
+    },
+    {
+      "id": "WS0007",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 226,
+      "angle": -36.5,
+      "locations": [115, -24]
+    },
+    {
+      "id": "WS0008",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 226,
+      "angle": 36.5,
+      "locations": [115, 24]
+    },
+    {
+      "id": "WS0009",
+      "size": "LARGE",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": 0,
+      "locations": [165.5, 23]
+    },
+    {
+      "id": "WS0010",
+      "size": "LARGE",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 0,
+      "angle": -0,
+      "locations": [165.5, -23]
+    },
+    {
+      "id": "WS0011",
+      "size": "MEDIUM",
+      "type": "COMPOSITE",
+      "mount": "TURRET",
+      "arc": 125,
+      "angle": -30,
+      "locations": [-19, -40]
+    },
+    {
+      "id": "WS0012",
+      "size": "MEDIUM",
+      "type": "COMPOSITE",
+      "mount": "TURRET",
+      "arc": 125,
+      "angle": 30,
+      "locations": [-19, 40]
+    },
+    {
+      "id": "WS0013",
+      "size": "MEDIUM",
+      "type": "MISSILE",
+      "mount": "TURRET",
+      "arc": 125,
+      "angle": -30,
+      "locations": [-36, -65]
+    },
+    {
+      "id": "WS0014",
+      "size": "MEDIUM",
+      "type": "MISSILE",
+      "mount": "TURRET",
+      "arc": 125,
+      "angle": 30,
+      "locations": [-36, 65]
+    },
+    {
+      "id": "WS0015",
+      "size": "MEDIUM",
+      "type": "COMPOSITE",
+      "mount": "TURRET",
+      "arc": 223,
+      "angle": -110.5,
+      "locations": [-19.5, -19.5]
+    },
+    {
+      "id": "WS0016",
+      "size": "MEDIUM",
+      "type": "COMPOSITE",
+      "mount": "TURRET",
+      "arc": 223,
+      "angle": 110.5,
+      "locations": [-19.5, 19.5]
+    },
+    {
+      "id": "WS0017",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 214,
+      "angle": -150,
+      "locations": [-36, -22]
+    },
+    {
+      "id": "WS0018",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 214,
+      "angle": 150,
+      "locations": [-36, 22]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-108.5, -70],
+      "length": 71.252129,
+      "width": 18.344971,
+      "angle": -156.5,
+      "contrailSize": 18.344971,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-108.5, 70],
+      "length": 71.252129,
+      "width": 18.344971,
+      "angle": 156.5,
+      "contrailSize": 18.344971,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-99.5, -79],
+      "length": 63.995773,
+      "width": 18.497686,
+      "angle": -156.5,
+      "contrailSize": 18.497686,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-99.5, 79],
+      "length": 63.995773,
+      "width": 18.497686,
+      "angle": 156.5,
+      "contrailSize": 18.497686,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-139.5, -11.5],
+      "length": 103.807106,
+      "width": 33.381718,
+      "angle": -179,
+      "contrailSize": 33.381718,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-139.5, 11.5],
+      "length": 103.807106,
+      "width": 33.381718,
+      "angle": 179,
+      "contrailSize": 33.381718,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-127.5, -25.5],
+      "length": 48.597328,
+      "width": 10.305289,
+      "angle": -179,
+      "contrailSize": 10.305289,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-127.5, 25.5],
+      "length": 48.597328,
+      "width": 10.305289,
+      "angle": 179,
+      "contrailSize": 10.305289,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-127.5, -32.5],
+      "length": 48.597328,
+      "width": 10.305289,
+      "angle": 180,
+      "contrailSize": 10.305289,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-127.5, 32.5],
+      "length": 48.597328,
+      "width": 10.305289,
+      "angle": -180,
+      "contrailSize": 10.305289,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-128.5, -40.5],
+      "length": 57.674492,
+      "width": 18.989775,
+      "angle": -179,
+      "contrailSize": 18.989775,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-128.5, 40.5],
+      "length": 57.674492,
+      "width": 18.989775,
+      "angle": 179,
+      "contrailSize": 18.989775,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    -129.5, -40.5,
+    -152, -56,
+    -110.5, -67,
+    -101.5, -98.5,
+    -52, -114.5,
+    2, -90.5,
+    -11, -75.5,
+    11.5, -60.5,
+    37.5, -83.5,
+    169.5, -34.5,
+    172.5, -18.5,
+    144, -0,
+    172.5, 18.5,
+    169.5, 34.5,
+    37.5, 83.5,
+    11.5, 60.5,
+    -11, 75.5,
+    2, 90.5,
+    -52, 114.5,
+    -101.5, 98.5,
+    -110.5, 67,
+    -152, 56,
+    -129.5, 40.5,
+    -142.5, 1
+  ]
+}

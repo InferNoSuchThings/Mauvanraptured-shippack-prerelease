@@ -1,0 +1,153 @@
+{
+  "hullName": "Fauv",
+  "hullId": "furymauvanlithe",
+  "hullSize": "CRUISER",
+  "spriteName": "graphics/ships/mauvanraptured_fauv.png",
+  "style": "HIGH_TECH",
+  "height": 230,
+  "width": 140,
+  "center": [69, 120],
+  "collisionRadius": 137.5,
+  "shieldCenter": [-5, -1],
+  "shieldRadius": 118.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 203,
+      "angle": -83,
+      "locations": [29, -38]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 257,
+      "angle": 0,
+      "locations": [66, -13]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 211,
+      "angle": 50,
+      "locations": [73, 34]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "TURRET",
+      "arc": 118,
+      "angle": 77.5,
+      "locations": [45, 38]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 209,
+      "angle": 74,
+      "locations": [22, 31]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": -130,
+      "locations": [-70, -46]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": 130,
+      "locations": [-70, 46]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [85, 14.5]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-97, 43.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-96.5, -44.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-113, -33],
+      "length": 31,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 16,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-113, 32],
+      "length": 31,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 16,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-117, -11],
+      "length": 29,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 16,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-117, 11],
+      "length": 29.5,
+      "width": 17,
+      "angle": 180,
+      "contrailSize": 17,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    108, -14,
+    48.5, -48,
+    7, -54.5,
+    -21, -39.5,
+    -77.5, -57,
+    -114, -38.5,
+    -113.5, 37,
+    -73.5, 56,
+    -20, 37.5,
+    11, 47.5,
+    76, 46,
+    97, 30,
+    86.5, 2
+  ]
+}
